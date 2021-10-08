@@ -17,7 +17,7 @@ class BMICalculator extends StatelessWidget {
         // textTheme: TextTheme(//to set all the text color to white
          // bodyText1: TextStyle(color: Colors.white),
     ),
-      home: const InputPage(),
+      home:  Input_Page(),
 
     );
   }
